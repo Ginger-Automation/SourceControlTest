@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="c17c15f1-9803-490b-9c5b-3d881a5f9712" ItemType="Agent" CreatedBy="YARONWE" Created="201806192056" GingerVersion="2.7.0.0" Version="1" LastUpdateBy="YARONWE" LastUpdate="201806192056" />
+<Agent Active="True" DriverType="InternalBrowser" Guid="c17c15f1-9803-490b-9c5b-3d881a5f9712" Name="a1" ParentGuid="00000000-0000-0000-0000-000000000000" Port="0" Remote="False">
+<DriverConfiguration>
+<DriverConfigParam Description="The amount of maximum time (in seconds) to wait for the driver to load/connect" Guid="709152fa-0e6a-4e50-9b3a-ae573663559c" Parameter="DriverLoadWaitingTime" ParentGuid="00000000-0000-0000-0000-000000000000" Value="30" />
+</DriverConfiguration>
+</Agent></GingerRepositoryItem>
