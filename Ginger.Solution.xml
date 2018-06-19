@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Ginger Repository Item created with version: 2.7.0.0-->
+<Ginger.Environments.Solution AlmType="QC" Created="6/19/2018 8:38:20 PM" CreatedBy="YARONWE" Guid="6bf3ac1a-956a-417f-8578-7ca103ed5568" LastUpdate="6/19/2018 8:39:03 PM" LastUpdateBy="YARONWE" Name="SourceControlTest" ParentGuid="00000000-0000-0000-0000-000000000000" ShowIndicationkForLockedItems="False" Version="1">
+<ApplicationPlatforms>
+<GingerCore.Platforms.ApplicationPlatform AppName="App1" CoreGUID="00000000-0000-0000-0000-000000000000" Created="6/19/2018 8:39:03 PM" CreatedBy="YARONWE" Guid="f0e53b10-237f-4659-a34d-ee3a230df328" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" Version="0" />
+</ApplicationPlatforms>
+
+<ExecutionLoggerConfigurationSetList>
+</ExecutionLoggerConfigurationSetList>
+
+<ExternalItemsFields>
+</ExternalItemsFields>
+
+<HTMLReportsConfigurationSetList>
+</HTMLReportsConfigurationSetList>
+
+<Tags>
+</Tags>
+
+<Variables>
+</Variables>
+</Ginger.Environments.Solution>

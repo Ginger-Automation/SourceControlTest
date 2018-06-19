@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Ginger Repository Item created with version: 2.7.0.0-->
+<GingerCore.BusinessFlow Active="True" Created="6/19/2018 8:39:04 PM" CreatedBy="YARONWE" EnableActivitiesVariablesDependenciesControl="False" Guid="ed18c40b-c157-411d-8513-5677d32b44ce" LastUpdate="6/19/2018 8:39:04 PM" LastUpdateBy="YARONWE" Mandatory="False" Name="Business Flow 1" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Version="1">
+<Activities>
+<GingerCore.Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="Activity 1" AutomationStatus="Development" Created="6/19/2018 8:39:04 PM" CreatedBy="YARONWE" EnableActionsVariablesDependenciesControl="False" ErrorHandlerMappingType="AllAvailableHandlers" Guid="a2c95db5-b727-4f3b-bc5f-e4d9ed6e48b4" LastUpdate="1/1/0001 12:00:00 AM" Mandatory="False" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" TargetApplication="App1" Version="0">
+<Acts>
+</Acts>
+
+<MappedErrorHandlers>
+</MappedErrorHandlers>
+
+<Tags>
+</Tags>
+
+<Variables>
+</Variables>
+
+<VariablesDependencies>
+</VariablesDependencies>
+</GingerCore.Activity>
+</Activities>
+
+<ActivitiesGroups>
+</ActivitiesGroups>
+
+<BFFlowControls>
+</BFFlowControls>
+
+<Tags>
+</Tags>
+
+<TargetApplications>
+<GingerCore.Platforms.TargetApplication AppName="App1" Created="6/19/2018 8:39:04 PM" CreatedBy="YARONWE" Guid="fb0c784e-cd3b-44dc-824b-040583112551" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Version="0" />
+</TargetApplications>
+
+<Variables>
+</Variables>
+</GingerCore.BusinessFlow>
